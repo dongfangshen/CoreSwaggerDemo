@@ -1,0 +1,10 @@
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\bin\Debug\netcoreapp1.0\CoreSwaggerApi.deps.json
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\bin\Debug\netcoreapp1.0\CoreSwaggerApi.runtimeconfig.json
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\bin\Debug\netcoreapp1.0\CoreSwaggerApi.runtimeconfig.dev.json
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\bin\Debug\netcoreapp1.0\CoreSwaggerApi.dll
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\bin\Debug\netcoreapp1.0\CoreSwaggerApi.pdb
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\obj\Debug\netcoreapp1.0\CoreSwaggerApi.AssemblyInfo.cs
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\obj\Debug\netcoreapp1.0\CoreSwaggerApi.dll
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\obj\Debug\netcoreapp1.0\CoreSwaggerApi.pdb
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\bin\Debug\netcoreapp1.0\CoreSwaggerApi.xml
+D:\VSProjects\CoreSwaggerApi\src\CoreSwaggerApi\obj\Debug\netcoreapp1.0\CoreSwaggerApi.csprojResolveAssemblyReference.cache
